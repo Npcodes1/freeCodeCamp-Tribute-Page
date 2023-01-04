@@ -1,8 +1,8 @@
 # freeCodeCamp-Tribute-Page
 
-This repo is my tribute page for freeCodeCamp's Responsive Web Design Project. The purpose of this tribute is to practice HTML/CSS. I created a tribute to Jerry Lawson, a black video game engineer.
+This project is a tribute page for freeCodeCamp's Responsive Web Design Project. The purpose of this tribute is to practice HTML/CSS. I created a tribute to Jerry Lawson, a black video game engineer.
 
-Build a Tribute Page
+## Build a Tribute Page
 Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 
 User Stories:
